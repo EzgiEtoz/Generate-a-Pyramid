@@ -1,0 +1,1 @@
+The Pyramid Generator project includes a powerful function that allows for the dynamic generation of pyramids with a specified height and alignment. This function constructs a pyramid-shaped pattern using the provided character, resulting in a visually appealing pyramid structure.
