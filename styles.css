@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.pyramid {
+    font-family: monospace;
+    text-align: center;
+}
+
+.pyramid-row {
+    white-space: pre;
+}
